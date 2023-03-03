@@ -1,3 +1,3 @@
 ## codelearngrow week 6
 
-# eunicecode6.netlify.app
+# https://eunicecode6.netlify.app/
